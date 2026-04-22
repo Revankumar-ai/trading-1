@@ -211,7 +211,7 @@ Custom exceptions:
 * Backtesting module
 
 ---
-live demo : 
+ 
 ## 👨‍💻 Author
 
 Revan Kumar Battini
